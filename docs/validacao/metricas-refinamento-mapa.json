@@ -1,0 +1,138 @@
+{
+  "measuredAt": "2026-09-27T04:09:39.356Z",
+  "environment": "Windows, Chrome headless; rede real para Supabase e MapTiler",
+  "results": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "mode": "production",
+      "rows": 1914,
+      "initialRequests": 4,
+      "firstQueryMs": 1790,
+      "datasetLoadMs": 2328,
+      "payloadDecodedBytes": 1638038,
+      "payloadEncodedBytes": 1638038,
+      "payloadTransferBytes": 1639238,
+      "firstMarkersFromNavigationMs": 3636,
+      "firstMarkersFromDatasetStartMs": 3359,
+      "initialSetDataCalls": 0,
+      "navigationSetDataCalls": 0,
+      "navigationRequests": 0,
+      "filterRequests": 0,
+      "panFrameMedianMs": 6.9,
+      "panFrameP95Ms": 7,
+      "panFrames": 40,
+      "mapBounds": {
+        "x": 0,
+        "y": 72,
+        "width": 1440,
+        "height": 928
+      },
+      "clusterCounts": {
+        "city": 0,
+        "neighborhood": 0,
+        "distant": 38
+      },
+      "paletteChecks": {
+        "amarelo": true,
+        "rosa_roxo": true,
+        "branco": true,
+        "multicolorido": true
+      },
+      "pageErrors": 0,
+      "mapNotices": 0,
+      "overflow": false,
+      "status": "1914 árvores nesta área"
+    },
+    {
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "mode": "production",
+      "rows": 1914,
+      "initialRequests": 4,
+      "firstQueryMs": 857,
+      "datasetLoadMs": 1376,
+      "payloadDecodedBytes": 1638038,
+      "payloadEncodedBytes": 1638038,
+      "payloadTransferBytes": 1639238,
+      "firstMarkersFromNavigationMs": 2441,
+      "firstMarkersFromDatasetStartMs": 2185,
+      "initialSetDataCalls": 0,
+      "navigationSetDataCalls": 0,
+      "navigationRequests": 0,
+      "filterRequests": 0,
+      "panFrameMedianMs": 7,
+      "panFrameP95Ms": 7,
+      "panFrames": 62,
+      "mapBounds": {
+        "x": 0,
+        "y": 72,
+        "width": 1920,
+        "height": 1008
+      },
+      "clusterCounts": {
+        "city": 0,
+        "neighborhood": 0,
+        "distant": 38
+      },
+      "paletteChecks": {
+        "amarelo": true,
+        "rosa_roxo": true,
+        "branco": true,
+        "multicolorido": true
+      },
+      "pageErrors": 0,
+      "mapNotices": 0,
+      "overflow": false,
+      "status": "1914 árvores nesta área"
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "mode": "production",
+      "rows": 1914,
+      "initialRequests": 4,
+      "firstQueryMs": 627,
+      "datasetLoadMs": 1076,
+      "payloadDecodedBytes": 1638038,
+      "payloadEncodedBytes": 1638038,
+      "payloadTransferBytes": 1639238,
+      "firstMarkersFromNavigationMs": 2074,
+      "firstMarkersFromDatasetStartMs": 1815,
+      "initialSetDataCalls": 0,
+      "navigationSetDataCalls": 0,
+      "navigationRequests": 0,
+      "filterRequests": 0,
+      "panFrameMedianMs": 6.9,
+      "panFrameP95Ms": 7.1,
+      "panFrames": 38,
+      "mapBounds": {
+        "x": 0,
+        "y": 76,
+        "width": 390,
+        "height": 692
+      },
+      "clusterCounts": {
+        "city": 0,
+        "neighborhood": 0,
+        "distant": 38
+      },
+      "paletteChecks": {
+        "amarelo": true,
+        "rosa_roxo": true,
+        "branco": true,
+        "multicolorido": true
+      },
+      "pageErrors": 0,
+      "mapNotices": 0,
+      "overflow": false,
+      "status": "1685 árvores nesta área"
+    }
+  ]
+}

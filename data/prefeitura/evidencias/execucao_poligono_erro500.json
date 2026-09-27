@@ -1,0 +1,248 @@
+{
+  "startedAt": "2026-09-26T22:08:43.548Z",
+  "source": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_MeioAmbiente/MapServer",
+  "method": "consultas sequenciais somente leitura; intervalo mínimo 400ms; até 3 tentativas HTTP; amostra estratificada limitada a 50",
+  "requests": [
+    {
+      "tag": "metadata_servico",
+      "url": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_MeioAmbiente/MapServer?f=json",
+      "parameters": null,
+      "file": "evidencias/reproduzivel/metadata_servico.raw",
+      "sha256": "d4b3de4db6ac218c2176c41f22485fe5c46c7fc479ca16c1146ec8781f8b4730",
+      "queriedAt": "2026-09-26T22:08:44.290Z",
+      "httpStatus": 200,
+      "contentType": "text/plain;charset=utf-8",
+      "attempt": 1
+    },
+    {
+      "tag": "metadata_arvore",
+      "url": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_MeioAmbiente/MapServer/3?f=json",
+      "parameters": null,
+      "file": "evidencias/reproduzivel/metadata_arvore.raw",
+      "sha256": "a018d360d3fec9286fc491ab1f0bbfe3563571f1aea2c9f7a16a0bfbfc03552c",
+      "queriedAt": "2026-09-26T22:08:44.528Z",
+      "httpStatus": 200,
+      "contentType": "text/plain;charset=utf-8",
+      "attempt": 1
+    },
+    {
+      "tag": "metadata_plantio",
+      "url": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_MeioAmbiente/MapServer/4?f=json",
+      "parameters": null,
+      "file": "evidencias/reproduzivel/metadata_plantio.raw",
+      "sha256": "591ebefeb1d8f0bc010d8c8f458cb769e68481750e7aa7c831f39c427ff36ce8",
+      "queriedAt": "2026-09-26T22:08:44.898Z",
+      "httpStatus": 200,
+      "contentType": "text/plain;charset=utf-8",
+      "attempt": 1
+    },
+    {
+      "tag": "distintos_nm_0",
+      "url": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_MeioAmbiente/MapServer/3/query",
+      "parameters": {
+        "f": "json",
+        "where": "1=1",
+        "returnGeometry": "false",
+        "outFields": "nm",
+        "returnDistinctValues": "true",
+        "orderByFields": "nm",
+        "resultOffset": 0,
+        "resultRecordCount": 1000
+      },
+      "file": "evidencias/reproduzivel/distintos_nm_0.raw",
+      "sha256": "e9a7dfa90e3dfab85695886005c24f820399f459a8b504e1ddf3506f0d560683",
+      "queriedAt": "2026-09-26T22:08:45.440Z",
+      "httpStatus": 200,
+      "contentType": "text/plain;charset=utf-8",
+      "attempt": 1
+    },
+    {
+      "tag": "distintos_cdespecie_0",
+      "url": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_MeioAmbiente/MapServer/3/query",
+      "parameters": {
+        "f": "json",
+        "where": "1=1",
+        "returnGeometry": "false",
+        "outFields": "cdespecie",
+        "returnDistinctValues": "true",
+        "orderByFields": "cdespecie",
+        "resultOffset": 0,
+        "resultRecordCount": 1000
+      },
+      "file": "evidencias/reproduzivel/distintos_cdespecie_0.raw",
+      "sha256": "c57f27d6a0cfd26313df5049355709924a35426971f7ff25d04377a87f0de7be",
+      "queriedAt": "2026-09-26T22:08:45.857Z",
+      "httpStatus": 200,
+      "contentType": "text/plain;charset=utf-8",
+      "attempt": 1
+    },
+    {
+      "tag": "grupos_nome_codigo_0",
+      "url": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_MeioAmbiente/MapServer/3/query",
+      "parameters": {
+        "f": "json",
+        "where": "1=1",
+        "returnGeometry": "false",
+        "groupByFieldsForStatistics": "nm,cdespecie",
+        "outStatistics": "[{\"statisticType\":\"count\",\"onStatisticField\":\"OBJECTID\",\"outStatisticFieldName\":\"n\"}]",
+        "orderByFields": "nm,cdespecie",
+        "resultOffset": 0,
+        "resultRecordCount": 1000
+      },
+      "file": "evidencias/reproduzivel/grupos_nome_codigo_0.raw",
+      "sha256": "ccbf87e687c24b675da39bfae8d9c9c1cec9ce3f23e5f954f3ffbf6fec46c49f",
+      "queriedAt": "2026-09-26T22:08:46.830Z",
+      "httpStatus": 200,
+      "contentType": "text/plain;charset=utf-8",
+      "attempt": 1
+    },
+    {
+      "tag": "total_arvores",
+      "url": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_MeioAmbiente/MapServer/3/query",
+      "parameters": {
+        "f": "json",
+        "where": "1=1",
+        "returnCountOnly": "true"
+      },
+      "file": "evidencias/reproduzivel/total_arvores.raw",
+      "sha256": "69363e1e2f4531bd630f9311a4e4dd4c517452405de450333a9597a9d2c4dc8b",
+      "queriedAt": "2026-09-26T22:08:47.144Z",
+      "httpStatus": 200,
+      "contentType": "text/plain;charset=utf-8",
+      "attempt": 1
+    },
+    {
+      "tag": "dicionario_especies",
+      "url": "https://portalmapa.goiania.go.gov.br/helpsiggo/HelpSIGGO/ARV%20CDESPECIE.htm",
+      "parameters": null,
+      "file": "evidencias/reproduzivel/dicionario_especies.raw",
+      "sha256": "5255dd42e0e5ba1f5271a5c9d6253f5160a9fe89f404fc5741431727c0d9653f",
+      "queriedAt": "2026-09-26T22:08:47.610Z",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "attempt": 1
+    },
+    {
+      "tag": "entidade_arvores",
+      "url": "https://portalmapa.goiania.go.gov.br/helpsiggo/HelpSIGGO/Arv.htm",
+      "parameters": null,
+      "file": "evidencias/reproduzivel/entidade_arvores.raw",
+      "sha256": "38592e3d46790a3bd047185f40d300d79ec80efc65119dbc18b60f9f4e75d3c6",
+      "queriedAt": "2026-09-26T22:08:48.101Z",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "attempt": 1
+    },
+    {
+      "tag": "total_candidatos",
+      "url": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_MeioAmbiente/MapServer/3/query",
+      "parameters": {
+        "f": "json",
+        "where": "cdespecie IN (16,36,118,119,166,175,176,306)",
+        "returnCountOnly": "true"
+      },
+      "file": "evidencias/reproduzivel/total_candidatos.raw",
+      "sha256": "d3a4d976f66a202047c109a5fe3fd0cb1f5baea37510c34fb85a6083b8d3eeec",
+      "queriedAt": "2026-09-26T22:08:48.414Z",
+      "httpStatus": 200,
+      "contentType": "text/plain;charset=utf-8",
+      "attempt": 1
+    },
+    {
+      "tag": "candidatos_bairro_0",
+      "url": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_MeioAmbiente/MapServer/3/query",
+      "parameters": {
+        "f": "json",
+        "where": "cdespecie IN (16,36,118,119,166,175,176,306)",
+        "returnGeometry": "false",
+        "groupByFieldsForStatistics": "cdbairro",
+        "outStatistics": "[{\"statisticType\":\"count\",\"onStatisticField\":\"OBJECTID\",\"outStatisticFieldName\":\"n\"}]",
+        "orderByFields": "cdbairro",
+        "resultOffset": 0,
+        "resultRecordCount": 1000
+      },
+      "file": "evidencias/reproduzivel/candidatos_bairro_0.raw",
+      "sha256": "da3f166a1502bb96541119df44f54d28ea9198ef7470bf34d3f9ede1247df277",
+      "queriedAt": "2026-09-26T22:08:48.887Z",
+      "httpStatus": 200,
+      "contentType": "text/plain;charset=utf-8",
+      "attempt": 1
+    },
+    {
+      "tag": "geometria_nula",
+      "url": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_MeioAmbiente/MapServer/3/query",
+      "parameters": {
+        "f": "json",
+        "where": "shape IS NULL",
+        "returnCountOnly": "true"
+      },
+      "file": "evidencias/reproduzivel/geometria_nula.raw",
+      "sha256": "618de7d9f46f3f697d827a1b6d84974760d5deda62e4e592adaa3c646602a94c",
+      "queriedAt": "2026-09-26T22:08:49.227Z",
+      "httpStatus": 200,
+      "contentType": "text/plain;charset=utf-8",
+      "attempt": 1
+    },
+    {
+      "tag": "xy_preenchidos",
+      "url": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_MeioAmbiente/MapServer/3/query",
+      "parameters": {
+        "f": "json",
+        "where": "x_coord IS NOT NULL AND y_coord IS NOT NULL",
+        "returnCountOnly": "true"
+      },
+      "file": "evidencias/reproduzivel/xy_preenchidos.raw",
+      "sha256": "69363e1e2f4531bd630f9311a4e4dd4c517452405de450333a9597a9d2c4dc8b",
+      "queriedAt": "2026-09-26T22:08:49.656Z",
+      "httpStatus": 200,
+      "contentType": "text/plain;charset=utf-8",
+      "attempt": 1
+    },
+    {
+      "tag": "xy_zero",
+      "url": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_MeioAmbiente/MapServer/3/query",
+      "parameters": {
+        "f": "json",
+        "where": "x_coord=0 OR y_coord=0",
+        "returnCountOnly": "true"
+      },
+      "file": "evidencias/reproduzivel/xy_zero.raw",
+      "sha256": "618de7d9f46f3f697d827a1b6d84974760d5deda62e4e592adaa3c646602a94c",
+      "queriedAt": "2026-09-26T22:08:50.029Z",
+      "httpStatus": 200,
+      "contentType": "text/plain;charset=utf-8",
+      "attempt": 1
+    },
+    {
+      "tag": "metadata_limite",
+      "url": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_Limites/MapServer/1?f=json",
+      "parameters": null,
+      "file": "evidencias/reproduzivel/metadata_limite.raw",
+      "sha256": "2dac5e782f19cc15f27715a31d49d9e69a9d3f1e5a4d7becc0ebf9934faffce1",
+      "queriedAt": "2026-09-26T22:08:50.325Z",
+      "httpStatus": 200,
+      "contentType": "text/plain;charset=utf-8",
+      "attempt": 1
+    },
+    {
+      "tag": "limite_goiania",
+      "url": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_Limites/MapServer/1/query",
+      "parameters": {
+        "f": "json",
+        "where": "UPPER(nm_mun) LIKE 'GOI%NIA'",
+        "outFields": "*",
+        "returnGeometry": "true",
+        "outSR": 4326,
+        "resultRecordCount": 10
+      },
+      "file": "evidencias/reproduzivel/limite_goiania.raw",
+      "sha256": "8791d4e90c0f8a7402de070c305710ef238a4ce592dd3c36e38d56926fab56f9",
+      "queriedAt": "2026-09-26T22:08:50.912Z",
+      "httpStatus": 200,
+      "contentType": "text/plain;charset=utf-8",
+      "attempt": 1
+    }
+  ],
+  "failedAt": "2026-09-26T22:08:55.796Z",
+  "error": "Error: HTTP temporário 500"
+}

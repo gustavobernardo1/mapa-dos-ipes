@@ -1,0 +1,48 @@
+﻿{
+    "displayFieldName":  "id",
+    "fieldAliases":  {
+                         "nm_mun":  "nm_mun"
+                     },
+    "geometryType":  "esriGeometryPolygon",
+    "spatialReference":  {
+                             "wkid":  4326,
+                             "latestWkid":  4326
+                         },
+    "fields":  [
+                   {
+                       "name":  "nm_mun",
+                       "type":  "esriFieldTypeString",
+                       "alias":  "nm_mun",
+                       "length":  30
+                   }
+               ],
+    "features":  [
+                     {
+                         "attributes":  {
+                                            "nm_mun":  "Goiânia"
+                                        },
+                         "geometry":  {
+                                          "rings":  [
+                                                        [
+                                                            [
+                                                                -49.38,
+                                                                -16.62
+                                                            ],
+                                                            [
+                                                                -49.08,
+                                                                -16.59
+                                                            ],
+                                                            [
+                                                                -49.38,
+                                                                -16.83
+                                                            ],
+                                                            [
+                                                                -49.38,
+                                                                -16.62
+                                                            ]
+                                                        ]
+                                                    ]
+                                      }
+                     }
+                 ]
+}

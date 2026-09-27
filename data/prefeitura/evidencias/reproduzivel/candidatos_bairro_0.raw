@@ -1,0 +1,1 @@
+{"displayFieldName":"","fieldAliases":{"cdbairro":"cdbairro","n":"n"},"fields":[{"name":"cdbairro","type":"esriFieldTypeInteger","alias":"cdbairro"},{"name":"n","type":"esriFieldTypeInteger","alias":"n"}],"features":[{"attributes":{"cdbairro":0,"n":478}},{"attributes":{"cdbairro":1,"n":1210}},{"attributes":{"cdbairro":6,"n":226}}]}

@@ -1,0 +1,1 @@
+{"displayFieldName":"","fieldAliases":{"porte":"porte","n":"n"},"fields":[{"name":"porte","type":"esriFieldTypeString","alias":"porte","length":1},{"name":"n","type":"esriFieldTypeInteger","alias":"n"}],"features":[{"attributes":{"porte":" ","n":51657}},{"attributes":{"porte":"G","n":35018}},{"attributes":{"porte":"M","n":1130}},{"attributes":{"porte":"P","n":2367}}]}

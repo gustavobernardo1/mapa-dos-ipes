@@ -1,0 +1,212 @@
+{
+    "currentVersion":  10.4,
+    "folders":  [
+
+                ],
+    "services":  [
+                     {
+                         "name":  "MapaServer/Feature_Base_202406291035",
+                         "type":  "FeatureServer"
+                     },
+                     {
+                         "name":  "MapaServer/Feature_Base_202406291035",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Feature_Base",
+                         "type":  "FeatureServer"
+                     },
+                     {
+                         "name":  "MapaServer/Feature_Base",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Feature_BaseTeste",
+                         "type":  "FeatureServer"
+                     },
+                     {
+                         "name":  "MapaServer/Feature_BaseTeste",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Acessibilidade",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Basico3",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_COMURG",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Documentacao",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Edificios",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Energia",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_ExpansaoUrbana",
+                         "type":  "FeatureServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_ExpansaoUrbana",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Fiscalizacao",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Legislacao",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Limites",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_MeioAmbiente1",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_MeioAmbiente_202206301502",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_MeioAmbiente",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_ModeloEspacial_202401291642",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_ModeloEspacial_Desenvolvimento",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_ModeloEspacial",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_OcupacaoIlegal",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Ortofoto2006v2",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Ortofoto2011_D",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Ortofoto2011v2",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Ortofoto2016_D",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Ortofoto2016",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Ortofoto2016v2",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Ortofoto2016v8_D",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_PatrimonioHistorico",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_PontosNotaveis",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_PUAMA",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_QuickBird2002",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_RedeViaria",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Sanemanento",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_SaudeFamilia",
+                         "type":  "FeatureServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_SaudeFamilia",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Simplifica_Goiania_UsoDoSolo",
+                         "type":  "FeatureServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Simplifica_Goiania_UsoDoSolo",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Tableau1",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Tableau2",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Telecomunicacao",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_TelecomunicacaoNew",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Tributario_Web",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_UsoDoSoloNew",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/Mapa_Vetor",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/ModeloEspacial_Des2019",
+                         "type":  "MapServer"
+                     },
+                     {
+                         "name":  "MapaServer/SampleWorldCities",
+                         "type":  "FeatureServer"
+                     },
+                     {
+                         "name":  "MapaServer/SampleWorldCities",
+                         "type":  "MapServer"
+                     }
+                 ]
+}

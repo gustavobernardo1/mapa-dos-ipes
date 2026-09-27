@@ -1,0 +1,1724 @@
+{
+  "retrievedAt": "2026-09-27T04:59:25.964Z",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3AStarr+080716-9311+Tabebuia+serratifolia.jpg%7CFile%3AHandroanthus+serratifolius+leaves.jpg%7CFile%3AHandroanthus+serratifolius+fruits.jpg%7CFile%3ATabebuia+impetiginosa.jpg%7CFile%3AStarr+070221-4697+Tabebuia+impetiginosa.jpg%7CFile%3AHandroanthus+heptaphyllus+flowers.jpg%7CFile%3AHandroanthus+heptaphyllus.jpg%7CFile%3ATabebuia+roseo-alba+1+Jo%C3%A3o+de+Deus+Medeiros.jpg%7CFile%3ATabebuia+roseo-alba+003.jpg%7CFile%3ATabebuia+roseo-alba+004.jpg%7CFile%3ACaesalpinia+pluviosa+var.+peltophoroides.jpg%7CFile%3ASibipiruna+%28Caesalpinia+peltophoroides%29+Ceret+Sao+Paulo+Brazil.jpg%7CFile%3ACassia+fistula+flower+twig.jpg%7CFile%3AStarr+020630-0007+Cassia+fistula.jpg%7CFile%3AYellow+trumpetbush+%28Tecoma+stans%29+Buton+Island+1.jpg%7CFile%3AYellow+trumpetbush+%28Tecoma+stans%29+Buton+Island+3.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280",
+  "result": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "6115488": {
+          "pageid": 6115488,
+          "ns": 6,
+          "title": "File:Starr 020630-0007 Cassia fistula.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1245346,
+              "width": 1200,
+              "height": 1600,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Starr_020630-0007_Cassia_fistula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1280,
+              "thumbheight": 1707,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Starr_020630-0007_Cassia_fistula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 1707
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Starr_020630-0007_Cassia_fistula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Starr_020630-0007_Cassia_fistula.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6115488",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-03-07 16:17:11",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Starr 020630-0007 Cassia fistula",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Cassia fistula|Flora of Maui|Photographs taken on 2002-06-30|Starr Environmental 2002|Cassia fistula (fruit)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<i>Cassia fistula</i> (flowers and leaves pods). Location: Maui, Kahului",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2002-06-30",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Plants of Hawaii, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.starrenvironmental.com/images/full/starr-020630-0007.jpg\">Image 020630-0007</a> from <a rel=\"nofollow\" class=\"external free\" href=\"http://www.starrenvironmental.com/plants/images/image/?q=020630-0007\">http://www.starrenvironmental.com/plants/images/image/?q=020630-0007</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.hear.org/starr/\">Forest &amp; Kim Starr</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.starrenvironmental.com/imageusepolicy/\">http://www.starrenvironmental.com/imageusepolicy/</a> <div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.starrenvironmental.com/\">Forest &amp; Kim Starr</a></div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.starrenvironmental.com/\">Forest &amp; Kim Starr</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "6148817": {
+          "pageid": 6148817,
+          "ns": 6,
+          "title": "File:Starr 080716-9311 Tabebuia serratifolia.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2769860,
+              "width": 2816,
+              "height": 2112,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Starr_080716-9311_Tabebuia_serratifolia.jpg/1280px-Starr_080716-9311_Tabebuia_serratifolia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1280,
+              "thumbheight": 960,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/d/df/Starr_080716-9311_Tabebuia_serratifolia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Starr_080716-9311_Tabebuia_serratifolia.jpg/1280px-Starr_080716-9311_Tabebuia_serratifolia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 960,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/df/Starr_080716-9311_Tabebuia_serratifolia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Starr_080716-9311_Tabebuia_serratifolia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Starr_080716-9311_Tabebuia_serratifolia.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6148817",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-03-08 16:23:44",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Starr 080716-9311 Tabebuia serratifolia",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus serratifolius|Taken with Sony DSC-H2|Enchanted Floral Gardens of Kula|Starr Environmental 2008",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<i>Tabebuia serratifolia</i> (flowers). Location: Maui, Enchanting Gardens of Kula",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2008-07-16",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Plants of Hawaii, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.starrenvironmental.com/images/full/starr-080716-9311.jpg\">Image 080716-9311</a> from <a rel=\"nofollow\" class=\"external free\" href=\"http://www.hear.org/starr/plants/images/image/?q=080716-9311\">http://www.hear.org/starr/plants/images/image/?q=080716-9311</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.hear.org/starr/\">Forest &amp; Kim Starr</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.starrenvironmental.com/imageusepolicy/\">http://www.starrenvironmental.com/imageusepolicy/</a> <div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.starrenvironmental.com/\">Forest &amp; Kim Starr</a></div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.starrenvironmental.com/\">Forest &amp; Kim Starr</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "6150706": {
+          "pageid": 6150706,
+          "ns": 6,
+          "title": "File:Starr 070221-4697 Tabebuia impetiginosa.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2454940,
+              "width": 2816,
+              "height": 2112,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Starr_070221-4697_Tabebuia_impetiginosa.jpg/1280px-Starr_070221-4697_Tabebuia_impetiginosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1280,
+              "thumbheight": 960,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/6/61/Starr_070221-4697_Tabebuia_impetiginosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Starr_070221-4697_Tabebuia_impetiginosa.jpg/1280px-Starr_070221-4697_Tabebuia_impetiginosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 960,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/61/Starr_070221-4697_Tabebuia_impetiginosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Starr_070221-4697_Tabebuia_impetiginosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Starr_070221-4697_Tabebuia_impetiginosa.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6150706",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-03-08 17:22:46",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Starr 070221-4697 Tabebuia impetiginosa",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Sony DSC-H2|Images from Forest & Kim Starr|Handroanthus impetiginosus (flowers)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Tabebuia impetiginosa (flowers). Location: Maui, near Lahainaluna Road",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2007-02-21",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Plants of Hawaii, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.starrenvironmental.com/images/full/starr-070221-4697.jpg\">Image 070221-4697</a> from <a rel=\"nofollow\" class=\"external free\" href=\"http://www.hear.org/starr/plants/images/image/?q=070221-4697\">http://www.hear.org/starr/plants/images/image/?q=070221-4697</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.hear.org/starr/\">Forest &amp; Kim Starr</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.starrenvironmental.com/imageusepolicy/\">http://www.starrenvironmental.com/imageusepolicy/</a> <div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.starrenvironmental.com/\">Forest &amp; Kim Starr</a></div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.starrenvironmental.com/\">Forest &amp; Kim Starr</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "8157324": {
+          "pageid": 8157324,
+          "ns": 6,
+          "title": "File:Sibipiruna (Caesalpinia peltophoroides) Ceret Sao Paulo Brazil.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2509072,
+              "width": 2112,
+              "height": 2816,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Sibipiruna_%28Caesalpinia_peltophoroides%29_Ceret_Sao_Paulo_Brazil.jpg/1280px-Sibipiruna_%28Caesalpinia_peltophoroides%29_Ceret_Sao_Paulo_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1280,
+              "thumbheight": 1707,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sibipiruna_%28Caesalpinia_peltophoroides%29_Ceret_Sao_Paulo_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Sibipiruna_%28Caesalpinia_peltophoroides%29_Ceret_Sao_Paulo_Brazil.jpg/1280px-Sibipiruna_%28Caesalpinia_peltophoroides%29_Ceret_Sao_Paulo_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 1707,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sibipiruna_%28Caesalpinia_peltophoroides%29_Ceret_Sao_Paulo_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sibipiruna_%28Caesalpinia_peltophoroides%29_Ceret_Sao_Paulo_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sibipiruna_(Caesalpinia_peltophoroides)_Ceret_Sao_Paulo_Brazil.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8157324",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-10-21 10:32:24",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Sibipiruna (Caesalpinia peltophoroides) Ceret Sao Paulo Brazil",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Cenostigma pluviosum var. peltophoroides|Taken with Canon PowerShot A700|Flickr images uploaded by Flickr upload bot",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "abnormaly lot of leaves",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2008-09-09 17:37:56",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "originally posted to <b><a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a></b> as <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/41597043@N00/2843378199\">Sibipiruna (Caesalpinia peltophoroides)  Ceret Sao Paulo Brazil</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/41597043@N00\">mauroguanandi</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<table id=\"FlickrReview\" style=\"width:100%; margin:0.3em auto; text-align:start; background-color:var(--background-color-success-subtle,#d5fdf4); padding: 3px; border:1px solid var(--border-color-base,#a2a9b1); color:inherit;\" dir=\"ltr\" lang=\"en\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\">Flickr</a></b>, was uploaded to Commons using <b><a href=\"//commons.wikimedia.org/wiki/User:Flickr_upload_bot\" title=\"User:Flickr upload bot\">Flickr upload bot</a></b> on 21 October 2009, 10:32 by <span id=\"flickr_upload_bot_reviewer\"><b><a href=\"//commons.wikimedia.org/wiki/User:Pauk\" title=\"User:Pauk\">Pauk</a></b></span>. On that date, it was confirmed to be licensed under the terms of the license indicated.\n</td>\n<td><span typeof=\"mw:File\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/60px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/120px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span>\n</td></tr></tbody></table>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "10087279": {
+          "pageid": 10087279,
+          "ns": 6,
+          "title": "File:Handroanthus heptaphyllus flowers.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 334186,
+              "width": 1024,
+              "height": 768,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Handroanthus_heptaphyllus_flowers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1280,
+              "thumbheight": 960,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Handroanthus_heptaphyllus_flowers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 960
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Handroanthus_heptaphyllus_flowers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handroanthus_heptaphyllus_flowers.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10087279",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2010-04-21 17:58:28",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Handroanthus heptaphyllus flowers",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Sony DSC-H5|Flickr images reviewed by FlickreviewR|Plants in Brasília (cultivated)|Photographs taken by João Medeiros|Handroanthus heptaphyllus (flowers)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Tabebuia heptaphylla (= Handroanthus heptaphyllus) - BIGNONIACEAE\n</p>\nParque da Cidade - Brasília - Distrito Federal - Brasil.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-05-23 16:41",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/43216777@N04/4538704455/\">Tabebuia heptaphylla</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43216777@N04\">João Medeiros</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "10786057": {
+          "pageid": 10786057,
+          "ns": 6,
+          "title": "File:Tabebuia impetiginosa.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 449168,
+              "width": 1024,
+              "height": 768,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tabebuia_impetiginosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1280,
+              "thumbheight": 960,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tabebuia_impetiginosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 960
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tabebuia_impetiginosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tabebuia_impetiginosa.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10786057",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2010-07-02 23:23:50",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Tabebuia impetiginosa",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus impetiginosus|Taken with Sony DSC-H5|Flickr images reviewed by FlickreviewR|Plants in Brasília (cultivated)|Photographs taken by João Medeiros",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Tabebuia impetiginosa (Pink Ipê or Pink Lapacho) -BIGNONIACEAE\n</p>\nBrasília - Distrito Federal - Brasil.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2010-06-30 07:36",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/43216777@N04/4753005123/\">Tabebuia impetiginosa</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43216777@N04\">João Medeiros</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "11047276": {
+          "pageid": 11047276,
+          "ns": 6,
+          "title": "File:Handroanthus heptaphyllus.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 394032,
+              "width": 1024,
+              "height": 754,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Handroanthus_heptaphyllus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1280,
+              "thumbheight": 943,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Handroanthus_heptaphyllus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 943
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Handroanthus_heptaphyllus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handroanthus_heptaphyllus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11047276",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2010-07-30 17:39:57",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Handroanthus heptaphyllus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Taken with Sony DSC-H5|Flickr images reviewed by FlickreviewR|Photographs taken by João Medeiros",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Tabebuia heptaphylla (Handroanthus heptaphyllus)- BIGNONIACEAE\n</p>\nBrasília - Distrito Federal - Brasil.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-06-24 23:34",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/cerrados/4840848211/\">Tabebuia heptaphylla </a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/43216777@N04\">João Medeiros</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "12608450": {
+          "pageid": 12608450,
+          "ns": 6,
+          "title": "File:Tabebuia roseo-alba 1 João de Deus Medeiros.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3120656,
+              "width": 3072,
+              "height": 2304,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Tabebuia_roseo-alba_1_Jo%C3%A3o_de_Deus_Medeiros.jpg/1280px-Tabebuia_roseo-alba_1_Jo%C3%A3o_de_Deus_Medeiros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1280,
+              "thumbheight": 960,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tabebuia_roseo-alba_1_Jo%C3%A3o_de_Deus_Medeiros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Tabebuia_roseo-alba_1_Jo%C3%A3o_de_Deus_Medeiros.jpg/1280px-Tabebuia_roseo-alba_1_Jo%C3%A3o_de_Deus_Medeiros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 960,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tabebuia_roseo-alba_1_Jo%C3%A3o_de_Deus_Medeiros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tabebuia_roseo-alba_1_Jo%C3%A3o_de_Deus_Medeiros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tabebuia_roseo-alba_1_Jo%C3%A3o_de_Deus_Medeiros.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12608450",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-01-06 09:25:21",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Tabebuia roseo-alba 1 João de Deus Medeiros",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Tabebuia roseoalba|Taken with Sony DSC-H5|Flickr images reviewed by FlickreviewR|Plants in Brasília (cultivated)|Photographs taken by João Medeiros",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<i><a href=\"//commons.wikimedia.org/wiki/Tabebuia_roseoalba\" title=\"Tabebuia roseoalba\">Tabebuia roseoalba</a></i>, Bignoniaceae - Brasilien/Brasil: Distrito Federal, Brasília",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2008-09-07",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/cerrados/3981619885/\">https://www.flickr.com/photos/cerrados/3981619885/</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "João de Deus Medeiros",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "16333164": {
+          "pageid": 16333164,
+          "ns": 6,
+          "title": "File:Handroanthus serratifolius fruits.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 416894,
+              "width": 1024,
+              "height": 768,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Handroanthus_serratifolius_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1280,
+              "thumbheight": 960,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Handroanthus_serratifolius_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 960
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Handroanthus_serratifolius_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handroanthus_serratifolius_fruits.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16333164",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-09-04 15:48:49",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Handroanthus serratifolius fruits",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus serratifolius|Taken with Sony DSC-H5|Flickr images reviewed by FlickreviewR|Photographs taken by João Medeiros",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Fruits of <i>Handroanthus serratifolius</i> (A.H. Gentry) S.Grose - Sin: Tabebuia serratifolia (Vahl)G. Nichols - BIGNONIACEAE - SQN 311 - Brasília - Distrito Federal - Brasil.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-09-04 10:03",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/cerrados/6112493152/\">Handroanthus serratifolius</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43216777@N04\">João Medeiros</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "16333198": {
+          "pageid": 16333198,
+          "ns": 6,
+          "title": "File:Handroanthus serratifolius leaves.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 391699,
+              "width": 952,
+              "height": 768,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Handroanthus_serratifolius_leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1280,
+              "thumbheight": 1033,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Handroanthus_serratifolius_leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 1033
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Handroanthus_serratifolius_leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handroanthus_serratifolius_leaves.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16333198",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-09-04 15:50:27",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Handroanthus serratifolius leaves",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus serratifolius|Taken with Sony DSC-H5|Flickr images reviewed by FlickreviewR|Photographs taken by João Medeiros",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Leaves of <i>Handroanthus serratifolius</i> (A.H. Gentry) S.Grose - Sin: Tabebuia serratifolia (Vahl)G. Nichols - BIGNONIACEAE - SQN 311 - Brasília - Distrito Federal - Brasil.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-09-04 10:03",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/cerrados/6112493810/\">Handroanthus serratifolius</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43216777@N04\">João Medeiros</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "17913131": {
+          "pageid": 17913131,
+          "ns": 6,
+          "title": "File:Caesalpinia pluviosa var. peltophoroides.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 235942,
+              "width": 1200,
+              "height": 1600,
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Caesalpinia_pluviosa_var._peltophoroides.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 1280,
+              "thumbheight": 1707,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Caesalpinia_pluviosa_var._peltophoroides.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 1707
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Caesalpinia_pluviosa_var._peltophoroides.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Caesalpinia_pluviosa_var._peltophoroides.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17913131",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-01-05 00:25:10",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Caesalpinia pluviosa var. peltophoroides",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Cenostigma pluviosum var. peltophoroides|Taken with Canon PowerShot A700|Flickr images reviewed by File Upload Bot (Magnus Manske)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Sibipiruna (<i>Caesalpinia pluviosa</i> var. <i>peltophoroides</i>) Sao paulo brasil",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2008-10-01 09:52",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/mauroguanandi/2905094558/\">Sibipiruna (Caesalpinia peltophoroides) Sao paulo brasil</a>\n</p>\n<ul><li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:Uleli\" title=\"User:Uleli\">uleli</a></li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41597043@N00\">mauroguanandi</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "49471850": {
+          "pageid": 49471850,
+          "ns": 6,
+          "title": "File:Tabebuia roseo-alba 003.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2852532,
+              "width": 1728,
+              "height": 2304,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Tabebuia_roseo-alba_003.jpg/1280px-Tabebuia_roseo-alba_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1280,
+              "thumbheight": 1707,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tabebuia_roseo-alba_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Tabebuia_roseo-alba_003.jpg/1280px-Tabebuia_roseo-alba_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 1707,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tabebuia_roseo-alba_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tabebuia_roseo-alba_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tabebuia_roseo-alba_003.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49471850",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-06-15 11:15:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Tabebuia roseo-alba 003",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|License migration redundant|Self-published work|Files with coordinates missing SDC location of creation|Tabebuia roseoalba (flowers)|Plants in the Parque Botánico de Maspalomas",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "valued",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "27.759250",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-15.585747",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "White Ipê; Flower; Botanical Garden <a href=\"https://en.wikipedia.org/wiki/Maspalomas\" class=\"extiw\" title=\"en:Maspalomas\">Maspalomas</a>, <a href=\"https://en.wikipedia.org/wiki/Gran_Canaria\" class=\"extiw\" title=\"en:Gran Canaria\">Gran Canaria</a>, <a href=\"https://en.wikipedia.org/wiki/Canary_Islands\" class=\"extiw\" title=\"en:Canary Islands\">Canary Islands</a>, <a href=\"https://en.wikipedia.org/wiki/Spain\" class=\"extiw\" title=\"en:Spain\">Spain</a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-10-13",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Llez\" title=\"User:Llez\">H. Zell</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "49471886": {
+          "pageid": 49471886,
+          "ns": 6,
+          "title": "File:Tabebuia roseo-alba 004.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2609118,
+              "width": 1728,
+              "height": 2304,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Tabebuia_roseo-alba_004.jpg/1280px-Tabebuia_roseo-alba_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1280,
+              "thumbheight": 1707,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tabebuia_roseo-alba_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Tabebuia_roseo-alba_004.jpg/1280px-Tabebuia_roseo-alba_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 1707,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tabebuia_roseo-alba_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tabebuia_roseo-alba_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tabebuia_roseo-alba_004.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49471886",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-06-15 11:18:08",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Tabebuia roseo-alba 004",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|License migration redundant|Self-published work|Files with coordinates missing SDC location of creation|Tabebuia roseoalba (flowers)|Plants in the Parque Botánico de Maspalomas|Tabebuia roseoalba (fruit)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "valued",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "27.759250",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-15.585747",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "White Ipê; Fruit; Botanical Garden <a href=\"https://en.wikipedia.org/wiki/Maspalomas\" class=\"extiw\" title=\"en:Maspalomas\">Maspalomas</a>, <a href=\"https://en.wikipedia.org/wiki/Gran_Canaria\" class=\"extiw\" title=\"en:Gran Canaria\">Gran Canaria</a>, <a href=\"https://en.wikipedia.org/wiki/Canary_Islands\" class=\"extiw\" title=\"en:Canary Islands\">Canary Islands</a>, <a href=\"https://en.wikipedia.org/wiki/Spain\" class=\"extiw\" title=\"en:Spain\">Spain</a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-10-13",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Llez\" title=\"User:Llez\">H. Zell</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "113216317": {
+          "pageid": 113216317,
+          "ns": 6,
+          "title": "File:Yellow trumpetbush (Tecoma stans) Buton Island 3.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2472734,
+              "width": 2560,
+              "height": 1920,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Yellow_trumpetbush_%28Tecoma_stans%29_Buton_Island_3.jpg/1280px-Yellow_trumpetbush_%28Tecoma_stans%29_Buton_Island_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1280,
+              "thumbheight": 960,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/0/09/Yellow_trumpetbush_%28Tecoma_stans%29_Buton_Island_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Yellow_trumpetbush_%28Tecoma_stans%29_Buton_Island_3.jpg/1280px-Yellow_trumpetbush_%28Tecoma_stans%29_Buton_Island_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 960,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/09/Yellow_trumpetbush_%28Tecoma_stans%29_Buton_Island_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Yellow_trumpetbush_%28Tecoma_stans%29_Buton_Island_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yellow_trumpetbush_(Tecoma_stans)_Buton_Island_3.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113216317",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-12-10 02:20:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Yellow trumpetbush (Tecoma stans) Buton Island 3",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Self-published work|Tecoma stans (fruit)|Tecoma stans (non-native)|Flora of Buton Island (ornamentals)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "dehisced pods of the yellow trumpetbush (Tecoma stans) on Buton Island, Indonesia",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-10-25 16:20:13",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:David_E_Mead&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:David E Mead (page does not exist)\">David E Mead</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "113216318": {
+          "pageid": 113216318,
+          "ns": 6,
+          "title": "File:Yellow trumpetbush (Tecoma stans) Buton Island 1.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7318968,
+              "width": 3673,
+              "height": 2755,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Yellow_trumpetbush_%28Tecoma_stans%29_Buton_Island_1.jpg/1280px-Yellow_trumpetbush_%28Tecoma_stans%29_Buton_Island_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1280,
+              "thumbheight": 960,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Yellow_trumpetbush_%28Tecoma_stans%29_Buton_Island_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Yellow_trumpetbush_%28Tecoma_stans%29_Buton_Island_1.jpg/1280px-Yellow_trumpetbush_%28Tecoma_stans%29_Buton_Island_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 960,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Yellow_trumpetbush_%28Tecoma_stans%29_Buton_Island_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Yellow_trumpetbush_%28Tecoma_stans%29_Buton_Island_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yellow_trumpetbush_(Tecoma_stans)_Buton_Island_1.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113216318",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-12-10 02:20:19",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Yellow trumpetbush (Tecoma stans) Buton Island 1",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Self-published work|Tecoma stans (non-native)|Tecoma stans (flowers)|Flora of Buton Island (ornamentals)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "flowers of the yellow trumpetbush (Tecoma stans) on Buton Island, Indonesia",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-09-25 15:54:08",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:David_E_Mead&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:David E Mead (page does not exist)\">David E Mead</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "143008272": {
+          "pageid": 143008272,
+          "ns": 6,
+          "title": "File:Cassia fistula flower twig.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4876700,
+              "width": 3000,
+              "height": 3542,
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Cassia_fistula_flower_twig.jpg/1280px-Cassia_fistula_flower_twig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 1280,
+              "thumbheight": 1511,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/6/68/Cassia_fistula_flower_twig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Cassia_fistula_flower_twig.jpg/1280px-Cassia_fistula_flower_twig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 1280,
+                "height": 1511,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/68/Cassia_fistula_flower_twig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Cassia_fistula_flower_twig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cassia_fistula_flower_twig.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143008272",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-12-28 09:39:03",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Cassia fistula flower twig",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Cassia fistula|Kerala|CC-Zero|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Cassia fistula, also known as golden shower, purging cassia, Indian laburnum, Kani Konna or pudding-pipe tree, is a flowering plant in the family Fabaceae. The species is native to the Indian subcontinent and adjacent regions of Southeast Asia. It is the official state flower of Kerala state in India. It is also a popular ornamental plant and is also used in herbal medicine.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2023-05-10",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Lokeswaran Kaliyappan",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

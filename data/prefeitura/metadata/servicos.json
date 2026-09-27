@@ -1,0 +1,14 @@
+{
+    "currentVersion":  10.4,
+    "folders":  [
+                    "Consultoria",
+                    "MapaServer",
+                    "Utilities"
+                ],
+    "services":  [
+                     {
+                         "name":  "Mapa_ModeloEspacial_teste",
+                         "type":  "MapServer"
+                     }
+                 ]
+}

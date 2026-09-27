@@ -1,0 +1,1389 @@
+{
+  "consultado_em": "2026-09-26T22:15:41.045Z",
+  "fonte": "https://portalmapa.goiania.go.gov.br/servicogyn/rest/services/MapaServer/Mapa_MeioAmbiente/MapServer/3",
+  "fonte_dicionario": "https://portalmapa.goiania.go.gov.br/helpsiggo/HelpSIGGO/ARV%20CDESPECIE.htm",
+  "regra": "Código observado cuja descrição científica no dicionário municipal contém o gênero literal Tabebuia ou Handroanthus. Cadastro público candidato, sem confirmação botânica ou sinonimização.",
+  "where": "cdespecie IN (16,36,118,119,166,175,176,306)",
+  "total_arvores": 90172,
+  "total_possiveis_ipes": 1914,
+  "por_codigo": [
+    {
+      "codigo": 16,
+      "nome": "Ipê-roxo",
+      "cientifico": "Tabebuia impetiginosa",
+      "autor": "( Mart. ex DC.) Standl.",
+      "variedade": "",
+      "quantidade": 708,
+      "nm_observados": [
+        {
+          "valor": "16",
+          "quantidade": 708
+        }
+      ],
+      "cor_literal": "ROXO"
+    },
+    {
+      "codigo": 36,
+      "nome": "Ipê-amarelo vellosoi",
+      "cientifico": "Tabebuia vellosoi",
+      "autor": "Tol.",
+      "variedade": "",
+      "quantidade": 174,
+      "nm_observados": [
+        {
+          "valor": "36",
+          "quantidade": 174
+        }
+      ],
+      "cor_literal": "AMARELO"
+    },
+    {
+      "codigo": 118,
+      "nome": "Ipê-amarelo-do-cerrado,taipoca",
+      "cientifico": "Tabebuia chrysotricha",
+      "autor": "(Mart.ex DC.) Standl.",
+      "variedade": "",
+      "quantidade": 150,
+      "nm_observados": [
+        {
+          "valor": "118",
+          "quantidade": 150
+        }
+      ],
+      "cor_literal": "AMARELO"
+    },
+    {
+      "codigo": 119,
+      "nome": "Ipê-rosa",
+      "cientifico": "Tabebuia rosea",
+      "autor": "",
+      "variedade": "",
+      "quantidade": 462,
+      "nm_observados": [
+        {
+          "valor": "119",
+          "quantidade": 462
+        }
+      ],
+      "cor_literal": "ROSA"
+    },
+    {
+      "codigo": 166,
+      "nome": "Ipê-Branco",
+      "cientifico": "Tabebuia roseo-alba",
+      "autor": "(Ridl.) Sand.",
+      "variedade": "",
+      "quantidade": 45,
+      "nm_observados": [
+        {
+          "valor": "166",
+          "quantidade": 45
+        }
+      ],
+      "cor_literal": "BRANCO"
+    },
+    {
+      "codigo": 175,
+      "nome": "Ipê-amarelo",
+      "cientifico": "Tabebuia serratifolia",
+      "autor": "(Vahl) Nich.",
+      "variedade": "",
+      "quantidade": 335,
+      "nm_observados": [
+        {
+          "valor": "175",
+          "quantidade": 335
+        }
+      ],
+      "cor_literal": "AMARELO"
+    },
+    {
+      "codigo": 176,
+      "nome": "Ipê-roxo-de-sete-folhas",
+      "cientifico": "Tabebuia heptaphylla",
+      "autor": "(Vell.) Tol.",
+      "variedade": "",
+      "quantidade": 39,
+      "nm_observados": [
+        {
+          "valor": "176",
+          "quantidade": 39
+        }
+      ],
+      "cor_literal": "ROXO"
+    },
+    {
+      "codigo": 306,
+      "nome": "Ipê-caraíba",
+      "cientifico": "Tabebuia aurea (Manso)",
+      "autor": "Bentham & Hooker f. ex S. Moore",
+      "variedade": "",
+      "quantidade": 1,
+      "nm_observados": [
+        {
+          "valor": "306",
+          "quantidade": 1
+        }
+      ],
+      "cor_literal": "NAO_INFORMADA"
+    }
+  ],
+  "por_cor_literal": {
+    "ROXO": 747,
+    "AMARELO": 659,
+    "ROSA": 462,
+    "BRANCO": 45,
+    "NAO_INFORMADA": 1
+  },
+  "por_bairro_codigo": [
+    {
+      "cdbairro": 0,
+      "n": 478
+    },
+    {
+      "cdbairro": 1,
+      "n": 1210
+    },
+    {
+      "cdbairro": 6,
+      "n": 226
+    }
+  ],
+  "excluidos_lexicais": [
+    {
+      "codigo": 3,
+      "nome": "Ipê-de-jardim,cedrinho",
+      "cientifico": "Tecoma stans",
+      "autor": "(L.) H.B.K.",
+      "variedade": "",
+      "quantidade": 2499,
+      "motivo": "Não pertence literalmente a Tabebuia/Handroanthus no dicionário; correspondência textual não basta."
+    },
+    {
+      "codigo": 22,
+      "nome": "Iuca",
+      "cientifico": "Yucca elephantipes",
+      "autor": "Hort. ex Regel",
+      "variedade": "",
+      "quantidade": 50,
+      "motivo": "Não pertence literalmente a Tabebuia/Handroanthus no dicionário; correspondência textual não basta."
+    },
+    {
+      "codigo": 113,
+      "nome": "Caliandra-rosa,esponjinha-rosa,escumilha",
+      "cientifico": "Calliandra brevipes",
+      "autor": "Benth.",
+      "variedade": "",
+      "quantidade": 162,
+      "motivo": "Não pertence literalmente a Tabebuia/Handroanthus no dicionário; correspondência textual não basta."
+    },
+    {
+      "codigo": 287,
+      "nome": "Falso-jaborandi",
+      "cientifico": "Piper",
+      "autor": "sp.",
+      "variedade": "",
+      "quantidade": 2,
+      "motivo": "Não pertence literalmente a Tabebuia/Handroanthus no dicionário; correspondência textual não basta."
+    }
+  ],
+  "duplicidades_nome_cientifico_literal": [],
+  "qualidade": {
+    "total_arvores": 90172,
+    "possiveis_ipes": 1914,
+    "geometrias_nulas": 0,
+    "xy_nao_nulos": 90172,
+    "xy_zero": 0,
+    "dentro_limite_oficial": 90172,
+    "fora_limite_nao_nulos": 0,
+    "porcentagem_coordenadas_dentro_limite": 100,
+    "candidatos_dentro_limite": 1914,
+    "coordenadas_numericamente_validas_no_envelope": 90172,
+    "porcentagem_coordenadas_numericamente_validas": 100,
+    "verificacao_municipal_aproximada": true,
+    "metodo_espacial": "Count espacial no polígono municipal generalizado pelo serviço com maxAllowableOffset=0.0001 grau (~11m) e geometryPrecision=6. Verificação municipal global aproximada; amostra verificada com polígono original. Validade numérica WGS84 contada separadamente no envelope da camada.",
+    "envelope_wgs84": {
+      "xmin": -49.32358422992078,
+      "ymin": -16.731669898070063,
+      "xmax": -49.221450744542466,
+      "ymax": -16.63695159250446,
+      "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+      }
+    },
+    "nm_nao_vazio": 90172,
+    "porcentagem_nm_nao_vazio": 100,
+    "nomes_humanos_no_campo_nm": 0,
+    "observacao_nm": "Campo é cópia de código; preenchimento não equivale a nome de espécie.",
+    "especie_resolvida_dicionario": 81132,
+    "porcentagem_especie_resolvida": 89.975,
+    "sem_classificacao": 8709,
+    "porcentagem_sem_classificacao": 9.658,
+    "codigo_nao_zero_sem_descricao": 331,
+    "porcentagem_sem_descricao": 0.367,
+    "completude": [
+      {
+        "campo": "inporte",
+        "tipo": "esriFieldTypeString",
+        "nao_nulos": 90172,
+        "brancos": 8656,
+        "nao_vazios": 81516,
+        "porcentagem_nao_vazios": 90.401
+      },
+      {
+        "campo": "incondarv",
+        "tipo": "esriFieldTypeString",
+        "nao_nulos": 90172,
+        "brancos": 8656,
+        "nao_vazios": 81516,
+        "porcentagem_nao_vazios": 90.401
+      },
+      {
+        "campo": "indiamcopa",
+        "tipo": "esriFieldTypeString",
+        "nao_nulos": 90172,
+        "brancos": 8658,
+        "nao_vazios": 81514,
+        "porcentagem_nao_vazios": 90.398
+      },
+      {
+        "campo": "incap",
+        "tipo": "esriFieldTypeString",
+        "nao_nulos": 90172,
+        "brancos": 8656,
+        "nao_vazios": 81516,
+        "porcentagem_nao_vazios": 90.401
+      },
+      {
+        "campo": "inidade",
+        "tipo": "esriFieldTypeString",
+        "nao_nulos": 90172,
+        "brancos": 8656,
+        "nao_vazios": 81516,
+        "porcentagem_nao_vazios": 90.401
+      },
+      {
+        "campo": "poda",
+        "tipo": "esriFieldTypeString",
+        "nao_nulos": 90172,
+        "brancos": 88958,
+        "nao_vazios": 1214,
+        "porcentagem_nao_vazios": 1.346
+      },
+      {
+        "campo": "porte",
+        "tipo": "esriFieldTypeString",
+        "nao_nulos": 90172,
+        "brancos": 51657,
+        "nao_vazios": 38515,
+        "porcentagem_nao_vazios": 42.713
+      },
+      {
+        "campo": "idade",
+        "tipo": "esriFieldTypeString",
+        "nao_nulos": 90172,
+        "brancos": 51656,
+        "nao_vazios": 38516,
+        "porcentagem_nao_vazios": 42.714
+      },
+      {
+        "campo": "cap",
+        "tipo": "esriFieldTypeInteger",
+        "nao_nulos": 90172,
+        "brancos": 0,
+        "nao_vazios": 90172,
+        "porcentagem_nao_vazios": 100
+      },
+      {
+        "campo": "dpc",
+        "tipo": "esriFieldTypeDouble",
+        "nao_nulos": 90172,
+        "brancos": 0,
+        "nao_vazios": 90172,
+        "porcentagem_nao_vazios": 100
+      },
+      {
+        "campo": "cdbairro",
+        "tipo": "esriFieldTypeInteger",
+        "nao_nulos": 90172,
+        "brancos": 0,
+        "nao_vazios": 90172,
+        "porcentagem_nao_vazios": 100
+      },
+      {
+        "campo": "dtlevanta",
+        "tipo": "esriFieldTypeString",
+        "nao_nulos": 90172,
+        "brancos": 8656,
+        "nao_vazios": 81516,
+        "porcentagem_nao_vazios": 90.401
+      },
+      {
+        "campo": "dtplantio",
+        "tipo": "esriFieldTypeDate",
+        "nao_nulos": 0,
+        "brancos": 0,
+        "nao_vazios": 0,
+        "porcentagem_nao_vazios": 0,
+        "min": null,
+        "max": null
+      },
+      {
+        "campo": "dtcadastro",
+        "tipo": "esriFieldTypeDate",
+        "nao_nulos": 66024,
+        "brancos": 0,
+        "nao_vazios": 66024,
+        "porcentagem_nao_vazios": 73.22,
+        "min": -1906329600000,
+        "max": 877737600000,
+        "min_iso": "1909-08-05T00:00:00.000Z",
+        "max_iso": "1997-10-25T00:00:00.000Z"
+      },
+      {
+        "campo": "dtatualiza",
+        "tipo": "esriFieldTypeDate",
+        "nao_nulos": 0,
+        "brancos": 0,
+        "nao_vazios": 0,
+        "porcentagem_nao_vazios": 0,
+        "min": null,
+        "max": null
+      },
+      {
+        "campo": "created_date",
+        "tipo": "esriFieldTypeDate",
+        "nao_nulos": 0,
+        "brancos": 0,
+        "nao_vazios": 0,
+        "porcentagem_nao_vazios": 0,
+        "min": null,
+        "max": null
+      },
+      {
+        "campo": "last_edited_date",
+        "tipo": "esriFieldTypeDate",
+        "nao_nulos": 1,
+        "brancos": 0,
+        "nao_vazios": 1,
+        "porcentagem_nao_vazios": 0.001,
+        "min": 1727113090000,
+        "max": 1727113090000,
+        "min_iso": "2024-09-23T17:38:10.000Z",
+        "max_iso": "2024-09-23T17:38:10.000Z"
+      },
+      {
+        "campo": "observacao",
+        "tipo": "esriFieldTypeString",
+        "nao_nulos": 90172,
+        "brancos": 70329,
+        "nao_vazios": 19843,
+        "porcentagem_nao_vazios": 22.006
+      },
+      {
+        "campo": "inobs",
+        "tipo": "esriFieldTypeString",
+        "nao_nulos": 90172,
+        "brancos": 8657,
+        "nao_vazios": 81515,
+        "porcentagem_nao_vazios": 90.399
+      },
+      {
+        "campo": "instatus",
+        "tipo": "esriFieldTypeString",
+        "nao_nulos": 90172,
+        "brancos": 24087,
+        "nao_vazios": 66085,
+        "porcentagem_nao_vazios": 73.288
+      },
+      {
+        "campo": "cdtparvore",
+        "tipo": "esriFieldTypeInteger",
+        "nao_nulos": 90172,
+        "brancos": 0,
+        "nao_vazios": 90172,
+        "porcentagem_nao_vazios": 100
+      },
+      {
+        "campo": "x_coord",
+        "tipo": "esriFieldTypeDouble",
+        "nao_nulos": 90172,
+        "brancos": 0,
+        "nao_vazios": 90172,
+        "porcentagem_nao_vazios": 100,
+        "min": 678813.52,
+        "max": 689745.82
+      },
+      {
+        "campo": "y_coord",
+        "tipo": "esriFieldTypeDouble",
+        "nao_nulos": 90172,
+        "brancos": 0,
+        "nao_vazios": 90172,
+        "porcentagem_nao_vazios": 100,
+        "min": 8149321.92987,
+        "max": 8159769.196
+      }
+    ],
+    "distribuicoes": {
+      "cdtparvore": [
+        {
+          "cdtparvore": 0,
+          "n": 51375
+        },
+        {
+          "cdtparvore": 10,
+          "n": 715
+        },
+        {
+          "cdtparvore": 101,
+          "n": 33333
+        },
+        {
+          "cdtparvore": 102,
+          "n": 2
+        },
+        {
+          "cdtparvore": 103,
+          "n": 1425
+        },
+        {
+          "cdtparvore": 104,
+          "n": 419
+        },
+        {
+          "cdtparvore": 105,
+          "n": 1
+        },
+        {
+          "cdtparvore": 106,
+          "n": 129
+        },
+        {
+          "cdtparvore": 107,
+          "n": 2
+        },
+        {
+          "cdtparvore": 108,
+          "n": 295
+        },
+        {
+          "cdtparvore": 109,
+          "n": 59
+        },
+        {
+          "cdtparvore": 110,
+          "n": 1
+        },
+        {
+          "cdtparvore": 112,
+          "n": 47
+        },
+        {
+          "cdtparvore": 113,
+          "n": 2
+        },
+        {
+          "cdtparvore": 114,
+          "n": 1
+        },
+        {
+          "cdtparvore": 115,
+          "n": 38
+        },
+        {
+          "cdtparvore": 116,
+          "n": 196
+        },
+        {
+          "cdtparvore": 117,
+          "n": 15
+        },
+        {
+          "cdtparvore": 118,
+          "n": 21
+        },
+        {
+          "cdtparvore": 119,
+          "n": 55
+        },
+        {
+          "cdtparvore": 120,
+          "n": 6
+        },
+        {
+          "cdtparvore": 121,
+          "n": 1007
+        },
+        {
+          "cdtparvore": 123,
+          "n": 1
+        },
+        {
+          "cdtparvore": 124,
+          "n": 3
+        },
+        {
+          "cdtparvore": 125,
+          "n": 23
+        },
+        {
+          "cdtparvore": 128,
+          "n": 31
+        },
+        {
+          "cdtparvore": 129,
+          "n": 3
+        },
+        {
+          "cdtparvore": 130,
+          "n": 7
+        },
+        {
+          "cdtparvore": 131,
+          "n": 5
+        },
+        {
+          "cdtparvore": 132,
+          "n": 258
+        },
+        {
+          "cdtparvore": 133,
+          "n": 2
+        },
+        {
+          "cdtparvore": 134,
+          "n": 1
+        },
+        {
+          "cdtparvore": 135,
+          "n": 30
+        },
+        {
+          "cdtparvore": 136,
+          "n": 8
+        },
+        {
+          "cdtparvore": 140,
+          "n": 1
+        },
+        {
+          "cdtparvore": 141,
+          "n": 13
+        },
+        {
+          "cdtparvore": 142,
+          "n": 52
+        },
+        {
+          "cdtparvore": 143,
+          "n": 1
+        },
+        {
+          "cdtparvore": 144,
+          "n": 228
+        },
+        {
+          "cdtparvore": 145,
+          "n": 1
+        },
+        {
+          "cdtparvore": 150,
+          "n": 1
+        },
+        {
+          "cdtparvore": 156,
+          "n": 11
+        },
+        {
+          "cdtparvore": 158,
+          "n": 1
+        },
+        {
+          "cdtparvore": 159,
+          "n": 1
+        },
+        {
+          "cdtparvore": 161,
+          "n": 1
+        },
+        {
+          "cdtparvore": 163,
+          "n": 7
+        },
+        {
+          "cdtparvore": 165,
+          "n": 2
+        },
+        {
+          "cdtparvore": 167,
+          "n": 104
+        },
+        {
+          "cdtparvore": 168,
+          "n": 53
+        },
+        {
+          "cdtparvore": 169,
+          "n": 6
+        },
+        {
+          "cdtparvore": 170,
+          "n": 6
+        },
+        {
+          "cdtparvore": 172,
+          "n": 5
+        },
+        {
+          "cdtparvore": 173,
+          "n": 8
+        },
+        {
+          "cdtparvore": 175,
+          "n": 5
+        },
+        {
+          "cdtparvore": 176,
+          "n": 2
+        },
+        {
+          "cdtparvore": 177,
+          "n": 5
+        },
+        {
+          "cdtparvore": 180,
+          "n": 2
+        },
+        {
+          "cdtparvore": 181,
+          "n": 1
+        },
+        {
+          "cdtparvore": 183,
+          "n": 138
+        },
+        {
+          "cdtparvore": 189,
+          "n": 1
+        }
+      ],
+      "inporte": [
+        {
+          "inporte": " ",
+          "n": 8656
+        },
+        {
+          "inporte": "-",
+          "n": 15
+        },
+        {
+          "inporte": "A",
+          "n": 46132
+        },
+        {
+          "inporte": "B",
+          "n": 14542
+        },
+        {
+          "inporte": "M",
+          "n": 20827
+        }
+      ],
+      "incondarv": [
+        {
+          "incondarv": " ",
+          "n": 8656
+        },
+        {
+          "incondarv": "-",
+          "n": 38
+        },
+        {
+          "incondarv": "0",
+          "n": 1
+        },
+        {
+          "incondarv": "1",
+          "n": 62031
+        },
+        {
+          "incondarv": "2",
+          "n": 14141
+        },
+        {
+          "incondarv": "3",
+          "n": 4727
+        },
+        {
+          "incondarv": "4",
+          "n": 578
+        }
+      ],
+      "inidade": [
+        {
+          "inidade": " ",
+          "n": 8656
+        },
+        {
+          "inidade": "-",
+          "n": 32
+        },
+        {
+          "inidade": "A",
+          "n": 60265
+        },
+        {
+          "inidade": "J",
+          "n": 21219
+        }
+      ],
+      "porte": [
+        {
+          "porte": " ",
+          "n": 51657
+        },
+        {
+          "porte": "G",
+          "n": 35018
+        },
+        {
+          "porte": "M",
+          "n": 1130
+        },
+        {
+          "porte": "P",
+          "n": 2367
+        }
+      ],
+      "idade": [
+        {
+          "idade": " ",
+          "n": 51656
+        },
+        {
+          "idade": "A",
+          "n": 36008
+        },
+        {
+          "idade": "J",
+          "n": 2508
+        }
+      ],
+      "instatus": [
+        {
+          "instatus": " ",
+          "n": 24087
+        },
+        {
+          "instatus": "P",
+          "n": 27306
+        },
+        {
+          "instatus": "V",
+          "n": 38779
+        }
+      ]
+    },
+    "amostra": {
+      "metodo": "Estratificada por código; primeiros OBJECTID de cada código; até 50; não aleatória, não representativa estatisticamente.",
+      "tamanho": 45,
+      "coordenadas_validas": 45,
+      "porcentagem_validas": 100,
+      "fora_municipio": [],
+      "pares_ate_5m": [
+        {
+          "objectids": [
+            8837,
+            8836
+          ],
+          "distancia_m": 1.3675255964174813,
+          "coordenadas_identicas": false
+        },
+        {
+          "objectids": [
+            2408,
+            33129
+          ],
+          "distancia_m": 1.884080458797499,
+          "coordenadas_identicas": false
+        }
+      ],
+      "pares_identicos": 0,
+      "datas_suspeitas": [],
+      "campos_vazios": [
+        {
+          "campo": "OBJECTID",
+          "vazios": 0
+        },
+        {
+          "campo": "id",
+          "vazios": 0
+        },
+        {
+          "campo": "nrlote",
+          "vazios": 45
+        },
+        {
+          "campo": "cdespecie",
+          "vazios": 0
+        },
+        {
+          "campo": "inidade",
+          "vazios": 0
+        },
+        {
+          "campo": "inporte",
+          "vazios": 0
+        },
+        {
+          "campo": "incondarv",
+          "vazios": 0
+        },
+        {
+          "campo": "indiamcopa",
+          "vazios": 0
+        },
+        {
+          "campo": "poda",
+          "vazios": 45
+        },
+        {
+          "campo": "inpodalp",
+          "vazios": 0
+        },
+        {
+          "campo": "inpodalc",
+          "vazios": 0
+        },
+        {
+          "campo": "inpodapu",
+          "vazios": 0
+        },
+        {
+          "campo": "inpodapl",
+          "vazios": 0
+        },
+        {
+          "campo": "inpodarc",
+          "vazios": 0
+        },
+        {
+          "campo": "inpodasp",
+          "vazios": 0
+        },
+        {
+          "campo": "inasppai",
+          "vazios": 0
+        },
+        {
+          "campo": "inalttens",
+          "vazios": 0
+        },
+        {
+          "campo": "inbaitens",
+          "vazios": 0
+        },
+        {
+          "campo": "intelefone",
+          "vazios": 0
+        },
+        {
+          "campo": "inilumina",
+          "vazios": 0
+        },
+        {
+          "campo": "inoutras",
+          "vazios": 0
+        },
+        {
+          "campo": "incap",
+          "vazios": 0
+        },
+        {
+          "campo": "incodfus",
+          "vazios": 0
+        },
+        {
+          "campo": "indistlote",
+          "vazios": 0
+        },
+        {
+          "campo": "indistedif",
+          "vazios": 0
+        },
+        {
+          "campo": "indistmfio",
+          "vazios": 0
+        },
+        {
+          "campo": "incondraiz",
+          "vazios": 0
+        },
+        {
+          "campo": "ininterfte",
+          "vazios": 0
+        },
+        {
+          "campo": "ininterfsa",
+          "vazios": 0
+        },
+        {
+          "campo": "ininterfca",
+          "vazios": 0
+        },
+        {
+          "campo": "ininterfas",
+          "vazios": 0
+        },
+        {
+          "campo": "ininterfmf",
+          "vazios": 0
+        },
+        {
+          "campo": "ininterfbh",
+          "vazios": 0
+        },
+        {
+          "campo": "inalinha",
+          "vazios": 0
+        },
+        {
+          "campo": "necessidad",
+          "vazios": 45
+        },
+        {
+          "campo": "inrt",
+          "vazios": 0
+        },
+        {
+          "campo": "inpt",
+          "vazios": 0
+        },
+        {
+          "campo": "inpm",
+          "vazios": 0
+        },
+        {
+          "campo": "inpl",
+          "vazios": 0
+        },
+        {
+          "campo": "inrd",
+          "vazios": 0
+        },
+        {
+          "campo": "incp",
+          "vazios": 0
+        },
+        {
+          "campo": "incd",
+          "vazios": 0
+        },
+        {
+          "campo": "inaf",
+          "vazios": 0
+        },
+        {
+          "campo": "inst",
+          "vazios": 0
+        },
+        {
+          "campo": "inri",
+          "vazios": 0
+        },
+        {
+          "campo": "inrf",
+          "vazios": 45
+        },
+        {
+          "campo": "inpf",
+          "vazios": 0
+        },
+        {
+          "campo": "intu",
+          "vazios": 0
+        },
+        {
+          "campo": "inobs",
+          "vazios": 0
+        },
+        {
+          "campo": "dtlevanta",
+          "vazios": 0
+        },
+        {
+          "campo": "id_lot",
+          "vazios": 12
+        },
+        {
+          "campo": "id_qdr",
+          "vazios": 1
+        },
+        {
+          "campo": "id_mfi",
+          "vazios": 45
+        },
+        {
+          "campo": "id_seg",
+          "vazios": 1
+        },
+        {
+          "campo": "distance",
+          "vazios": 0
+        },
+        {
+          "campo": "idlocal",
+          "vazios": 12
+        },
+        {
+          "campo": "cdtparvore",
+          "vazios": 0
+        },
+        {
+          "campo": "porte",
+          "vazios": 12
+        },
+        {
+          "campo": "idade",
+          "vazios": 12
+        },
+        {
+          "campo": "cap",
+          "vazios": 0
+        },
+        {
+          "campo": "fuste_cond",
+          "vazios": 12
+        },
+        {
+          "campo": "dist_ccivi",
+          "vazios": 0
+        },
+        {
+          "campo": "dpc",
+          "vazios": 0
+        },
+        {
+          "campo": "copa_condi",
+          "vazios": 12
+        },
+        {
+          "campo": "tipo_poda",
+          "vazios": 12
+        },
+        {
+          "campo": "asp_paisag",
+          "vazios": 12
+        },
+        {
+          "campo": "eqp_rat",
+          "vazios": 12
+        },
+        {
+          "campo": "eqp_rbt",
+          "vazios": 12
+        },
+        {
+          "campo": "eqp_fiasec",
+          "vazios": 12
+        },
+        {
+          "campo": "eqp_telefo",
+          "vazios": 12
+        },
+        {
+          "campo": "eqp_transi",
+          "vazios": 12
+        },
+        {
+          "campo": "eqp_ilumin",
+          "vazios": 12
+        },
+        {
+          "campo": "raiz_condi",
+          "vazios": 12
+        },
+        {
+          "campo": "eqp_agua",
+          "vazios": 45
+        },
+        {
+          "campo": "eqp_esgoto",
+          "vazios": 45
+        },
+        {
+          "campo": "eqp_calcad",
+          "vazios": 12
+        },
+        {
+          "campo": "eqp_meiofi",
+          "vazios": 12
+        },
+        {
+          "campo": "cdoutr_int",
+          "vazios": 42
+        },
+        {
+          "campo": "observacao",
+          "vazios": 17
+        },
+        {
+          "campo": "instatus",
+          "vazios": 12
+        },
+        {
+          "campo": "dtplantio",
+          "vazios": 45
+        },
+        {
+          "campo": "dtcadastro",
+          "vazios": 12
+        },
+        {
+          "campo": "dtatualiza",
+          "vazios": 45
+        },
+        {
+          "campo": "plano_oper",
+          "vazios": 0
+        },
+        {
+          "campo": "nrquadra",
+          "vazios": 12
+        },
+        {
+          "campo": "larg_rua",
+          "vazios": 0
+        },
+        {
+          "campo": "larg_calca",
+          "vazios": 0
+        },
+        {
+          "campo": "cdbairro",
+          "vazios": 0
+        },
+        {
+          "campo": "cdlogradou",
+          "vazios": 0
+        },
+        {
+          "campo": "cdind1",
+          "vazios": 45
+        },
+        {
+          "campo": "dsind1",
+          "vazios": 45
+        },
+        {
+          "campo": "cdind2",
+          "vazios": 45
+        },
+        {
+          "campo": "dsind2",
+          "vazios": 45
+        },
+        {
+          "campo": "cdind3",
+          "vazios": 45
+        },
+        {
+          "campo": "dsind3",
+          "vazios": 45
+        },
+        {
+          "campo": "cdind4",
+          "vazios": 45
+        },
+        {
+          "campo": "dsind4",
+          "vazios": 45
+        },
+        {
+          "campo": "cdind5",
+          "vazios": 45
+        },
+        {
+          "campo": "dsind5",
+          "vazios": 45
+        },
+        {
+          "campo": "nm",
+          "vazios": 0
+        },
+        {
+          "campo": "x_coord",
+          "vazios": 0
+        },
+        {
+          "campo": "y_coord",
+          "vazios": 0
+        },
+        {
+          "campo": "created_user",
+          "vazios": 45
+        },
+        {
+          "campo": "created_date",
+          "vazios": 45
+        },
+        {
+          "campo": "last_edited_user",
+          "vazios": 45
+        },
+        {
+          "campo": "last_edited_date",
+          "vazios": 45
+        }
+      ]
+    },
+    "plantio": {
+      "total": 30694,
+      "status": [
+        {
+          "instatus": " ",
+          "n": 9430
+        },
+        {
+          "instatus": "P",
+          "n": 10751
+        },
+        {
+          "instatus": "V",
+          "n": 10513
+        }
+      ],
+      "especies": [
+        {
+          "cdespecie": 0,
+          "n": 30676
+        },
+        {
+          "cdespecie": 1,
+          "n": 2
+        },
+        {
+          "cdespecie": 2,
+          "n": 1
+        },
+        {
+          "cdespecie": 3,
+          "n": 2
+        },
+        {
+          "cdespecie": 4,
+          "n": 2
+        },
+        {
+          "cdespecie": 7,
+          "n": 1
+        },
+        {
+          "cdespecie": 8,
+          "n": 1
+        },
+        {
+          "cdespecie": 11,
+          "n": 1
+        },
+        {
+          "cdespecie": 28,
+          "n": 2
+        },
+        {
+          "cdespecie": 44,
+          "n": 1
+        },
+        {
+          "cdespecie": 78,
+          "n": 1
+        },
+        {
+          "cdespecie": 80,
+          "n": 1
+        },
+        {
+          "cdespecie": 89,
+          "n": 1
+        },
+        {
+          "cdespecie": 160,
+          "n": 1
+        },
+        {
+          "cdespecie": 258,
+          "n": 1
+        }
+      ],
+      "datas": [
+        {
+          "count_dtplantio": 0,
+          "min_dtplantio": null,
+          "max_dtplantio": null,
+          "count_dtcadastro": 21264,
+          "min_dtcadastro": 832118400000,
+          "max_dtcadastro": 855187200000,
+          "count_dtatualiza": 0,
+          "min_dtatualiza": null,
+          "max_dtatualiza": null
+        }
+      ],
+      "exemplos": [
+        {
+          "OBJECTID": 6,
+          "id": "042000716308",
+          "cdespecie": 0,
+          "instatus": "V",
+          "cdtparvore": 101,
+          "dtplantio": null,
+          "dtcadastro": 841190400000,
+          "dtatualiza": null
+        },
+        {
+          "OBJECTID": 12,
+          "id": "042000716367",
+          "cdespecie": 0,
+          "instatus": "V",
+          "cdtparvore": 101,
+          "dtplantio": null,
+          "dtcadastro": 841190400000,
+          "dtatualiza": null
+        },
+        {
+          "OBJECTID": 16,
+          "id": "042000716413",
+          "cdespecie": 0,
+          "instatus": "V",
+          "cdtparvore": 101,
+          "dtplantio": null,
+          "dtcadastro": 841190400000,
+          "dtatualiza": null
+        },
+        {
+          "OBJECTID": 17,
+          "id": "042000716421",
+          "cdespecie": 0,
+          "instatus": "V",
+          "cdtparvore": 101,
+          "dtplantio": null,
+          "dtcadastro": 841190400000,
+          "dtatualiza": null
+        },
+        {
+          "OBJECTID": 20,
+          "id": "042000716472",
+          "cdespecie": 0,
+          "instatus": "V",
+          "cdtparvore": 101,
+          "dtplantio": null,
+          "dtcadastro": 841190400000,
+          "dtatualiza": null
+        }
+      ],
+      "arvores_com_mesmos_objectids": [],
+      "nota": "OBJECTID é local à camada. Coincidência de números não comprova árvore compartilhada; amostras de IDs não estimam sobreposição global."
+    }
+  }
+}

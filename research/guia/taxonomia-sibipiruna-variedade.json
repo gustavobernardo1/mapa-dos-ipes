@@ -1,0 +1,68 @@
+{
+  "retrievedAt": "2026-09-27T05:25:55.954Z",
+  "url": "https://api.gbif.org/v1/species/search?q=Cenostigma+pluviosum+var.+peltophoroides&datasetKey=aacd816d-662c-49d2-ad1a-97e66e2a2908&limit=10",
+  "result": {
+    "offset": 0,
+    "limit": 10,
+    "endOfRecords": true,
+    "count": 1,
+    "results": [
+      {
+        "key": 157525913,
+        "nameKey": 12564335,
+        "datasetKey": "aacd816d-662c-49d2-ad1a-97e66e2a2908",
+        "nubKey": 9610374,
+        "parentKey": 157153351,
+        "parent": "Cenostigma pluviosum",
+        "basionymKey": 114726812,
+        "basionym": "Caesalpinia peltophoroides Benth.",
+        "kingdom": "Plantae",
+        "phylum": "Tracheophyta",
+        "order": "Fabales",
+        "family": "Fabaceae",
+        "genus": "Cenostigma",
+        "species": "Cenostigma pluviosum",
+        "kingdomKey": 331939890,
+        "phylumKey": 331940123,
+        "classKey": 331940164,
+        "orderKey": 331941386,
+        "familyKey": 114719543,
+        "genusKey": 114720875,
+        "speciesKey": 157153351,
+        "scientificName": "Cenostigma pluviosum var. peltophoroides (Benth.) Gagnon & G.P.Lewis",
+        "canonicalName": "Cenostigma pluviosum peltophoroides",
+        "authorship": "(Benth.) Gagnon & G.P.Lewis",
+        "publishedIn": "PhytoKeys 71: 1–160 2016",
+        "nameType": "SCIENTIFIC",
+        "taxonomicStatus": "ACCEPTED",
+        "rank": "VARIETY",
+        "origin": "SOURCE",
+        "numDescendants": 0,
+        "numOccurrences": 0,
+        "taxonID": "606070",
+        "habitats": [],
+        "nomenclaturalStatus": [],
+        "threatStatuses": [],
+        "descriptions": [],
+        "vernacularNames": [
+          {
+            "vernacularName": "sibipiruna",
+            "language": "por"
+          }
+        ],
+        "synonym": false,
+        "higherClassificationMap": {
+          "114719543": "Fabaceae",
+          "114720875": "Cenostigma",
+          "157153351": "Cenostigma pluviosum",
+          "331939890": "Plantae",
+          "331940123": "Tracheophyta",
+          "331940164": "Magnoliopsida",
+          "331941386": "Fabales"
+        },
+        "class": "Magnoliopsida"
+      }
+    ],
+    "facets": []
+  }
+}

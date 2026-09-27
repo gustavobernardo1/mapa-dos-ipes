@@ -1,0 +1,1 @@
+{"displayFieldName":"","fieldAliases":{"instatus":"instatus","n":"n"},"fields":[{"name":"instatus","type":"esriFieldTypeString","alias":"instatus","length":1},{"name":"n","type":"esriFieldTypeInteger","alias":"n"}],"features":[{"attributes":{"instatus":" ","n":24087}},{"attributes":{"instatus":"P","n":27306}},{"attributes":{"instatus":"V","n":38779}}]}

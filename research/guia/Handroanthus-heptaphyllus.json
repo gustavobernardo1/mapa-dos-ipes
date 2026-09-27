@@ -1,0 +1,1460 @@
+{
+  "retrievedAt": "2026-09-27T04:51:42.107Z",
+  "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Handroanthus+heptaphyllus+filetype%3Abitmap&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize",
+  "result": {
+    "batchcomplete": "",
+    "continue": {
+      "gsroffset": 15,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": {
+        "10087279": {
+          "pageid": 10087279,
+          "ns": 6,
+          "title": "File:Handroanthus heptaphyllus flowers.jpg",
+          "index": 10,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 334186,
+              "width": 1024,
+              "height": 768,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Handroanthus_heptaphyllus_flowers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handroanthus_heptaphyllus_flowers.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10087279",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2010-04-21 17:58:28",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Handroanthus heptaphyllus flowers",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Sony DSC-H5|Flickr images reviewed by FlickreviewR|Plants in Brasília (cultivated)|Photographs taken by João Medeiros|Handroanthus heptaphyllus (flowers)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Tabebuia heptaphylla (= Handroanthus heptaphyllus) - BIGNONIACEAE\n</p>\nParque da Cidade - Brasília - Distrito Federal - Brasil.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-05-23 16:41",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/43216777@N04/4538704455/\">Tabebuia heptaphylla</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43216777@N04\">João Medeiros</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "11047276": {
+          "pageid": 11047276,
+          "ns": 6,
+          "title": "File:Handroanthus heptaphyllus.jpg",
+          "index": 8,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 394032,
+              "width": 1024,
+              "height": 754,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Handroanthus_heptaphyllus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handroanthus_heptaphyllus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11047276",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2010-07-30 17:39:57",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Handroanthus heptaphyllus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Taken with Sony DSC-H5|Flickr images reviewed by FlickreviewR|Photographs taken by João Medeiros",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Tabebuia heptaphylla (Handroanthus heptaphyllus)- BIGNONIACEAE\n</p>\nBrasília - Distrito Federal - Brasil.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-06-24 23:34",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/cerrados/4840848211/\">Tabebuia heptaphylla </a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/43216777@N04\">João Medeiros</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "19582770": {
+          "pageid": 19582770,
+          "ns": 6,
+          "title": "File:Tabebuia heptaphylla (Brasília).jpg",
+          "index": 6,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 389702,
+              "width": 960,
+              "height": 768,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Tabebuia_heptaphylla_%28Bras%C3%ADlia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tabebuia_heptaphylla_(Bras%C3%ADlia).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19582770",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-05-25 04:40:00",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Tabebuia heptaphylla (Brasília)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Taken with Sony DSC-H5|Flickr images reviewed by FlickreviewR|Plants in Brasília (cultivated)|Photographs taken by João Medeiros",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Tabebuia heptaphylla - BIGNONIACEAE\nBrasília - Distrito Federal - Brasil.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-06-24",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/cerrados/4841462150/in/photostream/\">Tabebuia heptaphylla</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43216777@N04\">João Medeiros</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "49979736": {
+          "pageid": 49979736,
+          "ns": 6,
+          "title": "File:Ipê Roxo or Piuva (Handroanthus heptaphyllus) in bloom ... - Flickr - berniedup.jpg",
+          "index": 7,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 10989634,
+              "width": 5472,
+              "height": 3648,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ip%C3%AA_Roxo_or_Piuva_%28Handroanthus_heptaphyllus%29_in_bloom_..._-_Flickr_-_berniedup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ip%C3%AA_Roxo_or_Piuva_(Handroanthus_heptaphyllus)_in_bloom_..._-_Flickr_-_berniedup.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49979736",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-07-07 15:17:51",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ipê Roxo or Piuva (Handroanthus heptaphyllus) in bloom ... - Flickr - berniedup",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Flickr images reviewed by FlickreviewR|Photographs by Bernard Dupont|Brazil photographs taken on 2016-06-29|Files uploaded by Josve05a (Bernard Dupont)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Transpantaneira, Poconé, Mato Grosso, BRAZIL",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2016-06-29 17:10",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/berniedup/27990190045/\">Ipê Roxo or Piuva (Handroanthus heptaphyllus) in bloom ...</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65695019@N07\">Bernard DUPONT</a> from FRANCE",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "50340208": {
+          "pageid": 50340208,
+          "ns": 6,
+          "title": "File:Purple Ipê or Piuva (Handroanthus heptaphyllus) in bloom ... (27739064244).jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6648199,
+              "width": 4000,
+              "height": 2715,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Purple_Ip%C3%AA_or_Piuva_%28Handroanthus_heptaphyllus%29_in_bloom_..._%2827739064244%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Purple_Ip%C3%AA_or_Piuva_(Handroanthus_heptaphyllus)_in_bloom_..._(27739064244).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50340208",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-07-26 06:27:55",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Purple Ipê or Piuva (Handroanthus heptaphyllus) in bloom ... (27739064244)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Flickr images reviewed by FlickreviewR|Photographs by Bernard Dupont|Brazil photographs taken on 2016-07-17",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Transpantaneira, Poconé, Mato Grosso, BRAZIL",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2016-07-17 11:09",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/berniedup/27739064244/\">Purple Ipê or Piuva (Handroanthus heptaphyllus) in bloom ...</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65695019@N07\">Bernard DUPONT</a> from FRANCE",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "56063679": {
+          "pageid": 56063679,
+          "ns": 6,
+          "title": "File:Purple Ipê or Piuva (Handroanthus heptaphyllus) in bloom ... (30820128314).jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13331140,
+              "width": 5472,
+              "height": 3648,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Purple_Ip%C3%AA_or_Piuva_%28Handroanthus_heptaphyllus%29_in_bloom_..._%2830820128314%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Purple_Ip%C3%AA_or_Piuva_(Handroanthus_heptaphyllus)_in_bloom_..._(30820128314).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=56063679",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-02-09 01:01:48",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Purple Ipê or Piuva (Handroanthus heptaphyllus) in bloom ... (30820128314)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Flickr images reviewed by FlickreviewR|Photographs by Bernard Dupont|Files with coordinates missing SDC location of creation|Brazil photographs taken on 2016-07-13",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "-16.659705",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-56.780776",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Transpantaneira, Poconé, Mato Grosso, BRAZIL",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2016-07-13 09:57",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/berniedup/30820128314/\">Purple Ipê or Piuva (Handroanthus heptaphyllus) in bloom ...</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65695019@N07\">Bernard DUPONT</a> from FRANCE",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "62389574": {
+          "pageid": 62389574,
+          "ns": 6,
+          "title": "File:Ipê florido em frente ao Teatro Municipal de Curionópolis.jpg",
+          "index": 12,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 336925,
+              "width": 1280,
+              "height": 960,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Ip%C3%AA_florido_em_frente_ao_Teatro_Municipal_de_Curion%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ip%C3%AA_florido_em_frente_ao_Teatro_Municipal_de_Curion%C3%B3polis.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62389574",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-09-12 22:01:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ipê florido em frente ao Teatro Municipal de Curionópolis",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Curionópolis|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Ipê florido em frente ao Teatro Municipal de Curionópolis",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-07-28",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hallel\" title=\"User:Hallel\">Hallel</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "62389581": {
+          "pageid": 62389581,
+          "ns": 6,
+          "title": "File:Ipê em frente a uma Igreja Adventista em Curionópolis.jpg",
+          "index": 15,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 401943,
+              "width": 944,
+              "height": 861,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ip%C3%AA_em_frente_a_uma_Igreja_Adventista_em_Curion%C3%B3polis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ip%C3%AA_em_frente_a_uma_Igreja_Adventista_em_Curion%C3%B3polis.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62389581",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-09-12 22:01:53",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ipê em frente a uma Igreja Adventista em Curionópolis",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Curionópolis|Self-published work|Seventh-day Adventist churches in Pará",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Ipê em frente a uma Igreja Adventista em Curionópolis, no Bairro da Paz",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-07-31",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hallel\" title=\"User:Hallel\">Hallel</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "126562400": {
+          "pageid": 126562400,
+          "ns": 6,
+          "title": "File:Handroanthus heptaphyllus kz01.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2910146,
+              "width": 4298,
+              "height": 3070,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Handroanthus_heptaphyllus_kz01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handroanthus_heptaphyllus_kz01.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126562400",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-12-12 18:28:53",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Handroanthus heptaphyllus kz01",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Self-published work|Files with coordinates missing SDC location of creation|Plants in Hijuela del Botanico, La Orotava",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "28.389143",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-16.524277",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Handroanthus heptaphyllus in Hijuela del Botanico, La Orotava",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-08-26 11:18:45",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kenraiz\" title=\"User:Kenraiz\">Krzysztof Ziarnek, Kenraiz</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "126562401": {
+          "pageid": 126562401,
+          "ns": 6,
+          "title": "File:Handroanthus heptaphyllus kz02.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2064200,
+              "width": 4002,
+              "height": 3002,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Handroanthus_heptaphyllus_kz02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handroanthus_heptaphyllus_kz02.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126562401",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-12-12 18:28:53",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Handroanthus heptaphyllus kz02",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Self-published work|Files with coordinates missing SDC location of creation|Plants in Hijuela del Botanico, La Orotava",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "28.389148",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-16.524267",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Handroanthus heptaphyllus in Hijuela del Botanico, La Orotava",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-08-26 11:19:04",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kenraiz\" title=\"User:Kenraiz\">Krzysztof Ziarnek, Kenraiz</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "150949604": {
+          "pageid": 150949604,
+          "ns": 6,
+          "title": "File:Handroanthus heptaphyllus - Pink tab.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4555616,
+              "width": 4000,
+              "height": 2252,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Handroanthus_heptaphyllus_-_Pink_tab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handroanthus_heptaphyllus_-_Pink_tab.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150949604",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-07-29 00:18:44",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Handroanthus heptaphyllus - Pink tab",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Self-published work|Files with coordinates missing SDC location of creation",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "-23.603634",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-46.661556",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Ipê-rosa. São Paulo, Brazil - July/2024",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-07-27 16:05:59",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mauro_Cateb\" title=\"User:Mauro Cateb\">Mauro Cateb</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "178389299": {
+          "pageid": 178389299,
+          "ns": 6,
+          "title": "File:Ipê-roxo (do tupi 'ypé), Handroanthus heptaphyllus 01.jpg",
+          "index": 14,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 5976928,
+              "width": 3000,
+              "height": 4000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ip%C3%AA-roxo_%28do_tupi_%27yp%C3%A9%29%2C_Handroanthus_heptaphyllus_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ip%C3%AA-roxo_(do_tupi_%27yp%C3%A9),_Handroanthus_heptaphyllus_01.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=178389299",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-11-13 16:22:51",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ipê-roxo (do tupi 'ypé), Handroanthus heptaphyllus 01",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Ipê-roxo ou ipê-rosa (Handroanthus heptaphyllus). Origem provável no tupi 'ypé, pau cascudo; esse 'ypé não é atestado com a acepção de ipê, como conhecemos.\n(Espécimen localizado em Bagé-RS.)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-10-19 09:15:36",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bageense&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bageense (page does not exist)\">Bageense</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "178389300": {
+          "pageid": 178389300,
+          "ns": 6,
+          "title": "File:Ipê-roxo (do tupi 'ypé), Handroanthus heptaphyllus 02.jpg",
+          "index": 11,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 21494076,
+              "width": 6120,
+              "height": 8160,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ip%C3%AA-roxo_%28do_tupi_%27yp%C3%A9%29%2C_Handroanthus_heptaphyllus_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ip%C3%AA-roxo_(do_tupi_%27yp%C3%A9),_Handroanthus_heptaphyllus_02.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=178389300",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-11-13 16:22:52",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ipê-roxo (do tupi 'ypé), Handroanthus heptaphyllus 02",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Ipê-roxo ou ipê-rosa (Handroanthus heptaphyllus). Origem provável no tupi 'ypé, pau cascudo; esse 'ypé não é atestado com a acepção de ipê, como conhecemos.\n(Espécimen localizado em Bagé-RS.)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-10-19 09:16:19",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bageense&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bageense (page does not exist)\">Bageense</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "178389311": {
+          "pageid": 178389311,
+          "ns": 6,
+          "title": "File:Ipê-roxo (do tupi 'ypé), Handroanthus heptaphyllus 05.jpg",
+          "index": 13,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7326814,
+              "width": 3000,
+              "height": 4000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ip%C3%AA-roxo_%28do_tupi_%27yp%C3%A9%29%2C_Handroanthus_heptaphyllus_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ip%C3%AA-roxo_(do_tupi_%27yp%C3%A9),_Handroanthus_heptaphyllus_05.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=178389311",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-11-13 16:23:01",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Ipê-roxo (do tupi 'ypé), Handroanthus heptaphyllus 05",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Ipê-roxo ou ipê-rosa (Handroanthus heptaphyllus). Origem provável no tupi 'ypé, pau cascudo; esse 'ypé não é atestado com a acepção de ipê, como conhecemos.\n(Espécimen localizado em Bagé-RS.)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-11-06 16:44:03",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bageense&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bageense (page does not exist)\">Bageense</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "196687741": {
+          "pageid": 196687741,
+          "ns": 6,
+          "title": "File:Handroanthus heptaphyllus-ESEC Itaberá-Isabela Batistella(001).jpg",
+          "index": 9,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 18837688,
+              "width": 6000,
+              "height": 4000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Handroanthus_heptaphyllus-ESEC_Itaber%C3%A1-Isabela_Batistella%28001%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handroanthus_heptaphyllus-ESEC_Itaber%C3%A1-Isabela_Batistella(001).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=196687741",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-08-02 15:45:57",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Handroanthus heptaphyllus-ESEC Itaberá-Isabela Batistella(001)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Handroanthus heptaphyllus|Self-published work|Images from Wiki Loves Earth missing SDC source of file|Images from Wiki Loves Earth missing SDC creator|Images from Wiki Loves Earth missing SDC inception|Images from Wiki Loves Earth with different SDC participant in|Images from Wiki Loves Earth 2026|Images from Wiki Loves Earth 2026 in Brazil|Uploaded with foto.wiki.br uploader|Scrophulariales - Estação Ecológica Itaberá",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "-23.850000",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-49.140000",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Registro de Handroanthus heptaphyllus em Estação Ecológica Itaberá.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2026-07-31",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Isabela_Batistella&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Isabela Batistella (page does not exist)\">Isabela Batistella</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

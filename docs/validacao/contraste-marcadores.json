@@ -1,0 +1,53 @@
+{
+  "note": "Contorno contra cores planas do mapa: confirmação em opacidade 1; municipal composto em 0,65. Não certifica a acessibilidade do mapa inteiro.",
+  "checks": [
+    {
+      "background": "Fundo",
+      "color": "#f3efe3",
+      "outlineContrast": {
+        "amarelo": 4.57,
+        "rosa": 7.2,
+        "roxo": 8.72,
+        "branco": 8.21
+      },
+      "municipalOutlineContrast": {
+        "amarelo": 2.5,
+        "rosa": 3.29,
+        "roxo": 3.57,
+        "branco": 3.44
+      }
+    },
+    {
+      "background": "Parques",
+      "color": "#c8ddb8",
+      "outlineContrast": {
+        "amarelo": 3.63,
+        "rosa": 5.71,
+        "roxo": 6.92,
+        "branco": 6.51
+      },
+      "municipalOutlineContrast": {
+        "amarelo": 2.22,
+        "rosa": 2.96,
+        "roxo": 3.24,
+        "branco": 3.05
+      }
+    },
+    {
+      "background": "Água",
+      "color": "#9ecfdf",
+      "outlineContrast": {
+        "amarelo": 3.11,
+        "rosa": 4.91,
+        "roxo": 5.94,
+        "branco": 5.59
+      },
+      "municipalOutlineContrast": {
+        "amarelo": 2.08,
+        "rosa": 2.77,
+        "roxo": 3.02,
+        "branco": 2.82
+      }
+    }
+  ]
+}
