@@ -24,30 +24,6 @@ Abra http://127.0.0.1:3000 e use esse endereço em NEXT_PUBLIC_SITE_URL. O coman
 
 Para desenvolvimento sem serviços, selecione explicitamente DATA_BACKEND=local. O diretório padrão é .local-data; login local exige LOCAL_ADMIN_PASSWORD de 12+ caracteres e SESSION_SECRET de 32+. Produção bloqueia local; configuração incompleta nunca ativa fallback silencioso.
 
-## Ambiente
-
-.env.local está ignorado. .env.example contém nomes vazios, exceto DATA_BACKEND=supabase.
-
-| Variável                             | Visibilidade e finalidade                       | Onde obter/configurar                                                                                |
-| ------------------------------------ | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| NEXT_PUBLIC_SUPABASE_URL             | Pública; URL do projeto                         | Supabase → Connect                                                                                   |
-| NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY | Pública; leitura com RLS e Auth                 | Supabase → Settings → API Keys → publishable                                                         |
-| SUPABASE_SECRET_KEY                  | Privada; RPCs e Storage no servidor             | Supabase → Settings → API Keys → secret                                                              |
-| DATABASE_URL                         | Privada; migrations/testes, fora do runtime web | Supabase → Connect → Direct connection ou Session pooler; senha do banco                             |
-| DATABASE_SSL_CA_PATH                 | Caminho local opcional para CA pública do banco | Supabase → Database → Settings → certificado SSL; necessário se o emissor não estiver no trust store |
-| SUPABASE_STORAGE_BUCKET              | Servidor; fotos (também é o padrão)             | Migration cria o bucket                                                                              |
-| SESSION_SECRET                       | Privada; HMAC do limitador e sessão local       | Gere localmente um valor aleatório de 32+ caracteres                                                 |
-| NEXT_PUBLIC_SITE_URL                 | Pública; origem exata e SEO                     | http://127.0.0.1:3000 local; URL HTTPS do ambiente publicado                                         |
-| NEXT_PUBLIC_MAPTILER_KEY             | Pública, opcional; basemap MapTiler             | MapTiler Cloud → API keys → Edit                                                                     |
-| LOCAL_ADMIN_PASSWORD                 | Privada; apenas desenvolvimento local           | Escolha localmente, não configurar na Vercel                                                         |
-| LOCAL_DATA_DIR                       | Apenas desenvolvimento; padrão .local-data      | Opcional                                                                                             |
-| DATA_BACKEND                         | Servidor; supabase ou local                     | supabase para infraestrutura real                                                                    |
-
-SUPABASE_ACCESS_TOKEN é uma credencial privada opcional de gerenciamento, mantida somente em .env.local quando usada pelo operador. Não substitui as chaves da aplicação e não é necessária no runtime nem na Vercel.
-
-As chaves modernas são publishable e secret. A secret corresponde ao papel PostgreSQL service_role e contorna RLS: permanece no servidor. Não coloque secret, DATABASE_URL ou senha em NEXT_PUBLIC. Referência: [API Keys Supabase](https://supabase.com/docs/guides/getting-started/api-keys).
-
-O script de banco usa TLS com verificação do certificado. Em rede sem IPv6, use o pooler em **Session**, não Transaction. Se necessário, configure DATABASE_SSL_CA_PATH com o certificado da CA; nunca desabilite a verificação TLS.
 
 ## Banco e fotografias
 
